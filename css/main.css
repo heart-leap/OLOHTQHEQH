@@ -147,6 +147,8 @@ hr.line {
     margin-top: 20px;
     border: 5px solid #e8c187;
     border-radius: 5px;
+    width: 800px;
+    height: 500px;
 }
 
 .profile .avatar {
