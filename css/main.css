@@ -176,7 +176,7 @@ hr.line {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 13rem;
+    width: 15rem;
     border: 5px solid #5e3d22;
     border-radius: 10px;
 }
@@ -210,8 +210,8 @@ hr.line {
     border: 5px solid #5e3d22;
     box-shadow: 0 8px 20px 0 rgba(0,0,0,0.2);
     transition: 0.2s;
-    width: 15rem;
-    height: 15rem;
+    width: 13.5rem;
+    height: 13.5rem;
 
 }
 
