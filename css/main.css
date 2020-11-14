@@ -27,10 +27,9 @@ nav ul {
 nav {
     
     background-color: #5e3d22;
-    
     width: 100%;
     overflow: visible;
-    height: auto;
+    height: 3rem;
 }
 
 nav a {
@@ -177,7 +176,7 @@ hr.line {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 20%;
+    width: 13rem;
     border: 5px solid #5e3d22;
     border-radius: 10px;
 }
@@ -202,8 +201,8 @@ hr.line {
     border-radius: 10px;
     transition: 0.5s;
     position: relative;
-    width: 250px;
-    height: 250px;
+    width: 13rem;
+    height: 13rem;
 
 }
 
@@ -211,8 +210,8 @@ hr.line {
     border: 5px solid #5e3d22;
     box-shadow: 0 8px 20px 0 rgba(0,0,0,0.2);
     transition: 0.2s;
-    width: 255px;
-    height: 255px;
+    width: 15rem;
+    height: 15rem;
 
 }
 
@@ -240,6 +239,8 @@ footer {
 }
 
 .navbar {
+    width: auto;
+    height: auto;
     text-align: center;
     background: #5e3d22;
     color: #e8c187;
