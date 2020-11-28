@@ -30,6 +30,9 @@ nav {
     width: 100%;
     overflow: visible;
     height: 3rem;
+    top: 0;
+    position: fixed;
+    z-index: 999;
 }
 
 nav a {
@@ -97,8 +100,7 @@ body {
 hr.line {
     border: 10px solid #e8c187;
     width: 100%;
-    border-radius: 5px;
-    margin: auto;
+    margin: 0;
 }
 
 .text-box2 h1 {
@@ -119,7 +121,7 @@ hr.line {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding: 20px;
+    padding: 0px;
     padding-left: auto;
     padding-right: auto;
     padding-top: 1px;
@@ -143,7 +145,7 @@ hr.line {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding: 20px;
+    padding: 0px;
     padding-left: auto;
     padding-right: auto;
     padding-top: 1px;
